@@ -11,6 +11,10 @@ Verify that an AI agent can:
 - Read Markdown documentation
 - Summarize repository contents
 
+## Demo Note
+
+This branch (`experiment/yourflow-183-demo`) contains a small documentation update made during the YOURFLOW-183 GitHub integration test. The change is limited to this file.
+
 ## Restrictions
 
 This repository contains no confidential company information.
