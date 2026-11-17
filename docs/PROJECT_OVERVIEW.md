@@ -26,6 +26,10 @@ Success means the agent can perform each step without pushing directly to the de
 5. **Open a draft pull request.** The agent opens a draft pull request targeting `main` that references YOURFLOW-183.
 6. **Review.** A human reviews the draft. The pull request is never merged by the agent.
 
+## Demo Note
+
+This branch (`experiment/yourflow-183-demo`) contains a small documentation update made during the YOURFLOW-183 GitHub integration test. The change is limited to this file.
+
 ## Restrictions
 
 - This repository contains no confidential company information.
